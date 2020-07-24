@@ -1,0 +1,22 @@
+{
+  "name": "@os2conticki/npm-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OS2ConTicki/npm-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OS2ConTicki/npm-test/issues"
+  },
+  "homepage": "https://github.com/OS2ConTicki/npm-test#readme"
+}
