@@ -12,8 +12,10 @@ yarn add @os2conticki/npm-test
 
 @TODO
 
-## Build
+## Build and publish
 
 ```sh
 yarn production
+npm version
+npm publish --access public
 ```
