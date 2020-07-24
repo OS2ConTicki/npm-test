@@ -16,6 +16,7 @@ yarn add @os2conticki/npm-test
 
 ```sh
 yarn production
+npm config set scope os2conticki
 npm version
 npm publish --access public
 ```
